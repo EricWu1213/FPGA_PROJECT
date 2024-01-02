@@ -1,5 +1,5 @@
 # FPGA_PROJECT
-Design and Optimization of a 3-stage Pipelined RISC-V CPU on Xilinx PYNQ Platform, UC Berkeley      08/2023 - 12/2023
+Design and Optimization of a 3-stage Pipelined RISC-V CPU on Xilinx PYNQ Platform
   Partnered to design a 3-stage pipelined RISC-V CPU with UART tethering.
   Integrated audio and IO components, which are done in previous FPGA lab, to create a basic audio synthesizer.
   Targeted the PYNQ-Z1 board with Zynq 7000-series FPGA.
